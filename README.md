@@ -7,6 +7,7 @@
 
 
 Hi there! Welcome to Cloud9 IDE!
+Ceci est un test
 
 To get you started, we included a small hello world application.
 
